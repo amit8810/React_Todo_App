@@ -9,6 +9,11 @@ TodoApp is a simple React-based application that allows users to manage a list o
 - **Delete Tasks:** Users can remove tasks from the list.
 - **Persistent Storage:** Tasks are saved in local storage, so they persist across page reloads.
 
+## Live Demo
+
+Check out the live demo of the app: [Todo App](https://react-todo-app-by-amit-singh.netlify.app/)
+
+
 ## Installation
 
 1. **Clone the repository:**
